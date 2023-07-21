@@ -16,8 +16,6 @@ public class TestGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Just git test");
-        System.out.println("Test branch");
         System.out.println("test test 222");
         int lime = 10;
         System.out.println(lime);
